@@ -1,4 +1,33 @@
 .venv
 .claude
-CLAUDE.MD
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+!infra/env.example
+
+# Local tooling
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.logs/
 

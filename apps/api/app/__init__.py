@@ -1,0 +1,2 @@
+"""Eqar API application package."""
+
