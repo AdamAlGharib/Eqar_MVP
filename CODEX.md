@@ -1,5 +1,5 @@
-# CODEX.md - Eqar Project Pointer
+# Codex Entry Point
 
-Read [docs/agents/CODEX.md](docs/agents/CODEX.md) for Codex project instructions.
+Read [docs/agents/CODEX.md](docs/agents/CODEX.md) before making project changes.
 
-Before frontend UI work, also read [docs/agents/design.md](docs/agents/design.md).
+The active product is a buyer-first Canadian real estate search and market intelligence platform. Do not rebuild the old agent AI co-pilot direction unless the user explicitly redirects the project.
